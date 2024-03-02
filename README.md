@@ -2,7 +2,7 @@
 
 This is a simple web application that fetches weather data from the OpenWeatherMap API based on user input location. It displays the current weather conditions, temperature, and other relevant information for the specified location.
 
-![Weather App Screenshot](screenshot.png)
+
 
 ## Features
 
